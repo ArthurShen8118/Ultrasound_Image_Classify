@@ -47,7 +47,7 @@ The dataset were collected from the following sources:
 A method to use the dataset to train the classification model by Convolutional Neural Network. Also, we use the test_dataset to do the test and get the good result which we can classify which image is either Normal or DMD precisely
 
 ## Results
-
+#### Accuracy: 92.11%
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/ArthurShen8118/Ultrasound_Image_Classify/blob/main/Readme_images/1%20(1).jpg)
 

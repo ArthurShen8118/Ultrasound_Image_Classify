@@ -51,7 +51,7 @@ A method to use the dataset to train the classification model by Convolutional N
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/ArthurShen8118/Ultrasound_Image_Classify/blob/main/Readme_images/1%20(1).jpg)
 
-![](https://github.com/ArthurShen8118/Ultrasound_Image_Classify/blob/main/Readme_images/2.jpg)
+![](https://github.com/ArthurShen8118/Ultrasound_Image_Classify/blob/main/Readme_images/2%20(1).jpg)
 ## Owner
 Made with by [Arthur Hui-Chung Shen](https://github.com/ArthurShen8118)
 

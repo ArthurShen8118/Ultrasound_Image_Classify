@@ -33,8 +33,8 @@ In this project, we introduce AI to assess patients’ condition from a more obj
 
 
 This dataset consists of __172 images__ belonging to two classes:
-*	__Normal: 152 images__
-*	__DMD: 20 images__
+*	__Normal: 20 images__
+*	__DMD: 152 images__
 
 The dataset were collected from the following sources:
 
